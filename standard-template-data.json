@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-11-05T06:22:08.172370456Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-11-20T05:51:08.335497531Z",
     "templateType": "trip_a",
     "propertyId": "d99af7a5-4f50-4a07-8935-a3f8c4e65134",
     "homepageId": "01a1a0e7-b073-771e-9e73-0483b1fddea4"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의 필수입니다.",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의 필수입니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 5세 이상\n- 아동: 60개월 이상~5세 미만\n- 유아: 60개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 10,000원\n(1박기준/현장결제)\n※ 기준 인원 초과 시 영유아부터 추가 요금 발생합니다.(5세 미만 1만원/5세 부터 2만원)\n※ 객실 금액은 기준 인원에 대한 금액으로 인원 초과 시 추가 요금이 발생합니다.\n※ 현장에서 발생되는 모든 추가 요금은 1박당 부과되오니 자세한 사항은 숙소 측에 문의 부탁드립니다.\n\n[개별바베큐]\n- 바베큐 형태: 숯불/가스그릴\n- 신청 시간: 입실 후 ~ 20:00\n- 이용 시간: 입실 후 ~ 22:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n- 이용 요금: 4인 기준 30,000원 / 추가 인원 1인당 5,000원 / 가스그릴: 1회 20,000원 (1박기준/현장결제)\n- 이용 객실: 개별 바베큐: 1월 1호, 1월 2호, 1월 3호, 2월 101호, 2월 102호, 2월 103호 / 공동 바베큐: 1월 6호, 1월 7호, 2월 104호, 2월 105호, 2월 106호, 2월 107호, 2월 201호, 2월 202호\n※ 객실의 안전과 화재 예방을 위해 객실 내에서 생선이나 고기 등을 굽는 직화 방식은 허용되지 않으며, 개인적으로 준비해 오는 취사도구(그릴, 숯, 전기/전열기구 등)은 반입이 금지되어 있습니다.\n\n[공용수영장]\n- 운영 기간: 26년도 5월 23일 ~ 9월 12일 (※ 현장 상황에 따라 변동 될 수 있음)\n- 이용 요금: 무료\n- 이용 시간: 10:00 ~ 20:00\n- 수영장 크기: 4.5m x 13m x 1m\n- 온도: 냉수\n- 이용 복장: 수영복, 비치웨어\n※ 날씨나 펜션 상황에 따라 변동될 수 있습니다.\n\n[애견동반]\n- 이용 객실: 2월 101호,102호,103호,1월 1호,2호,3호\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 5KG 미만\n- 제한 마릿수: 객실당 1마리\n- 반려동물 허용 종류: 강아지\n- 애견 비품: 패드,식기\n※ 객실 내 반려견을 혼자 놔두고 외출 하지 말아주세요.\n※ 객실 내 침구류 및 비품 등 배변 등의 오염 시 세탁비가 청구됩니다.\n※ 객실 내 비품 및 벽지 등 훼손 시 수리비가 청구됩니다.\n※ 일반 고객님을 위해 아이들(반려견)케어 부탁드립니다.\n\n[편의 및 주변 시설]\n- 화재감지기 보유\n- 일산화탄소 감지기\n- 와이파이 보유\n- 펜션 관리실에 공동 전자레인지 비치\n\n[주차장]\n- 주차장 보유\n\n[교통편]\n[승용차 이용시]\n※ 네비에 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 경북 영덕군 병곡면 병곡리 509-1\n- 도로명 주소 : 경북 영덕군 병곡면 동해대로 7400\n\n[대중교통 이용시]\n- 고래불역 동해선에서 도보 7분거리",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의 필수입니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 5세 이상\n- 아동: 60개월 이상~5세 미만\n- 유아: 60개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 기준 인원 초과 시 영유아부터 추가 요금 발생합니다.(5세 미만 1만원/5세 부터 2만원)\n※ 객실 금액은 기준 인원에 대한 금액으로 인원 초과 시 추가 요금이 발생합니다.\n※ 현장에서 발생되는 모든 추가 요금은 1박당 부과되오니 자세한 사항은 숙소 측에 문의 부탁드립니다.\n\n[개별바베큐]\n- 바베큐 형태: 숯불/가스그릴\n- 신청 시간: 입실 후 ~ 20:00\n- 이용 시간: 입실 후 ~ 22:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n- 이용 요금: 4인 기준 30,000원 / 추가 인원 1인당 5,000원 / 가스그릴: 1회 20,000원 (1박기준/현장결제)\n- 이용 객실: 개별 바베큐: 1월 1호, 1월 2호, 1월 3호, 2월 101호, 2월 102호, 2월 103호 / 공동 바베큐: 1월 6호, 1월 7호, 2월 104호, 2월 105호, 2월 106호, 2월 107호, 2월 201호, 2월 202호\n※ 객실의 안전과 화재 예방을 위해 객실 내에서 생선이나 고기 등을 굽는 직화 방식은 허용되지 않으며, 개인적으로 준비해 오는 취사도구(그릴, 숯, 전기/전열기구 등)은 반입이 금지되어 있습니다.\n\n[공용수영장]\n- 운영 기간: 26년도 5월 23일 ~ 9월 12일 (※ 현장 상황에 따라 변동 될 수 있음)\n- 이용 요금: 무료\n- 이용 시간: 10:00 ~ 20:00\n- 수영장 크기: 4.5m x 13m x 1m\n- 온도: 냉수\n- 이용 복장: 수영복, 비치웨어\n※ 날씨나 펜션 상황에 따라 변동될 수 있습니다.\n\n[애견동반]\n- 이용 객실: 2월 101호,102호,103호,1월 1호,2호,3호\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 5KG 미만\n- 제한 마릿수: 객실당 1마리\n- 반려동물 허용 종류: 강아지\n- 애견 비품: 패드,식기\n※ 객실 내 반려견을 혼자 놔두고 외출 하지 말아주세요.\n※ 객실 내 침구류 및 비품 등 배변 등의 오염 시 세탁비가 청구됩니다.\n※ 객실 내 비품 및 벽지 등 훼손 시 수리비가 청구됩니다.\n※ 일반 고객님을 위해 아이들(반려견)케어 부탁드립니다.\n\n[편의 및 주변 시설]\n- 화재감지기 보유\n- 일산화탄소 감지기\n- 와이파이 보유\n- 펜션 관리실에 공동 전자레인지 비치\n\n[주차장]\n- 주차장 보유\n\n[교통편]\n[승용차 이용시]\n※ 네비에 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 경북 영덕군 병곡면 병곡리 509-1\n- 도로명 주소 : 경북 영덕군 병곡면 동해대로 7400\n\n[대중교통 이용시]\n- 고래불역 동해선에서 도보 7분거리",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -467,7 +467,7 @@
           {
             "id": "609cf15f-a250-4b97-bc80-b30ec4a4c6da",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/MhX4YL0N8id7.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -477,7 +477,7 @@
           {
             "id": "fcf54b14-90d2-4d52-b4de-22dfb686717c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/rxdHDmlutA2W.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -485,7 +485,7 @@
           {
             "id": "32fb9c9e-56d2-45d6-b433-6ddcd8d3cfb3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/PZXmQTOhVjH5.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -493,7 +493,7 @@
           {
             "id": "b9fbd811-533b-4bb4-895e-29f27e02fadb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/K7DkcEBrLZbt.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -501,7 +501,7 @@
           {
             "id": "a1da1814-226f-496d-8bb7-84f0a66b5d46",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/xAaOFHqk1SDg.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -509,7 +509,7 @@
           {
             "id": "0e2115ab-4db5-4066-8fde-9804d3896692",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/ML09grvJNhZa.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -517,7 +517,7 @@
           {
             "id": "05f62750-c3e7-4050-af81-1c0ab7306ce4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/6GVomSjeB29F.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -525,7 +525,7 @@
           {
             "id": "f5a00582-b9ca-4b64-9f75-0c098416b549",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/8KByXw4b0q9p.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -533,7 +533,7 @@
           {
             "id": "52736505-f1b3-4a65-93f9-cfddaf159a21",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/IOxRWtSHeECA.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -5643,7 +5643,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
